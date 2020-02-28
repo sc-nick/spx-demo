@@ -1,0 +1,7 @@
+{
+  "name": "Bozaka",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
